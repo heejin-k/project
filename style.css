@@ -1,6 +1,7 @@
 @import url('https:/fonts.googleapis.com/css?family+Noto+Sans+KR&display=swap');
 
-* {margin: 0; padding: 0; box-sizing: border-box;}
+.login-form {margin: 0; padding: 0; box-sizing: border-box;}
+
 body {
     font-family: 'Noto Sans KR', sans-serif;
     display: flex;
@@ -8,6 +9,7 @@ body {
     align-items: center;
     height: 100vh;
 }
+
 body::before {
     content: "";
     position: absolute; z-index: 1;

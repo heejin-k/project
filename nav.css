@@ -33,7 +33,6 @@ a {
   list-style: none;
   padding-top: 43px;
   padding-right: 8px;
-
   flex-direction: flex;
 
 }
@@ -63,7 +62,7 @@ a {
 .login {
   position: absolute;
   padding: 20px;
-  right: 50px;
+  right: 70px;
   font-size: 24px;
   color :#EDCE7A;
 }
